@@ -2,7 +2,7 @@
 
 A classic 2-player Tic Tac Toe game built with HTML, CSS, and JavaScript — no frameworks, no dependencies.
 
-🔗 **Live Demo:** 
+🔗 **Live Demo:** https://bharat-sharma88.github.io/Tic-Tac-Toe-Game/
 
 ## Features
 
